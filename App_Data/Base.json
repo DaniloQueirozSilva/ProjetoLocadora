@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "Danilo Queiroz",
+    "funcional": 10001
+  },
+  {
+    "id": 2,
+    "nome": "Davi Queiroz",
+    "funcional": 10002
+  },
+  {
+    "id": 3,
+    "nome": "Anderson Silva",
+    "funcional": 10004
+  },
+  {
+    "id": 4,
+    "nome": "Solange Correia",
+    "funcional": 10005
+  }
+]

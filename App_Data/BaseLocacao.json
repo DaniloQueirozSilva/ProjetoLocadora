@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "DataDevolucao": "2021-03-13T00:00:00",
+    "filme": {
+      "id": 1,
+      "Nome": "Titanic",
+      "Genero": "épico",
+      "Ano": 1997
+    },
+    "locador": {
+      "id": 1,
+      "nome": "Danilo Queiroz",
+      "funcional": 10001
+    },
+    "alugado": "alugado"
+  },
+  {
+    "id": 2,
+    "DataDevolucao": "2021-03-13T00:00:00",
+    "filme": {
+      "id": 2,
+      "Nome": "Velozes e furiosos",
+      "Genero": "Açaooo",
+      "Ano": 2003
+    },
+    "locador": {
+      "id": 3,
+      "nome": "Anderson Silva",
+      "funcional": 10004
+    },
+    "alugado": "Devolvido"
+  },
+  {
+    "id": 3,
+    "DataDevolucao": "2021-03-13T00:00:00",
+    "filme": {
+      "id": 2,
+      "Nome": "Velozes e furiosos",
+      "Genero": "Ação",
+      "Ano": 2003
+    },
+    "locador": {
+      "id": 3,
+      "nome": "Anderson Silva",
+      "funcional": 10004
+    },
+    "alugado": "alugado"
+  },
+  {
+    "id": 4,
+    "DataDevolucao": "2021-03-17T00:00:00",
+    "filme": {
+      "id": 2,
+      "Nome": "Velozes e furiosos",
+      "Genero": "Ação",
+      "Ano": 2003
+    },
+    "locador": {
+      "id": 1,
+      "nome": "Danilo Queiroz",
+      "funcional": 10001
+    },
+    "alugado": "alugado"
+  },
+  {
+    "id": 5,
+    "DataDevolucao": "2021-03-19T00:00:00",
+    "filme": {
+      "id": 3,
+      "Nome": "A era do gelo ",
+      "Genero": "Aventura",
+      "Ano": 2005
+    },
+    "locador": {
+      "id": 3,
+      "nome": "Anderson Silva",
+      "funcional": 10004
+    },
+    "alugado": "Devolvido"
+  },
+  {
+    "id": 6,
+    "DataDevolucao": "2021-03-25T00:00:00",
+    "filme": {
+      "id": 2,
+      "Nome": "Velozes e furiosos",
+      "Genero": "Ação",
+      "Ano": 2003
+    },
+    "locador": {
+      "id": 1,
+      "nome": "Danilo Queiroz",
+      "funcional": 10001
+    },
+    "alugado": "Alugado"
+  },
+  {
+    "id": 7,
+    "DataDevolucao": "2021-03-30T00:00:00",
+    "filme": {
+      "id": 4,
+      "Nome": "A era do gelo 2 ",
+      "Genero": "Aventura",
+      "Ano": 2008
+    },
+    "locador": 1,
+    "alugado": "alugado"
+  }
+]
